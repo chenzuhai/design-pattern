@@ -1,0 +1,8 @@
+﻿  SortDecorator.cpp
+  ReportDecorator.cpp
+  HighScoreDecorator.cpp
+  FouthGradeSchoolReport.h
+e:\vs2015\设计模式学习\decorator设计模式\decorator设计模式\fouthgradeschoolreport.h(2): fatal error C1014: 包含文件太多: 深度 = 1024
+  Decorator.cpp.cpp
+e:\vs2015\设计模式学习\decorator设计模式\decorator设计模式\fouthgradeschoolreport.h(2): fatal error C1014: 包含文件太多: 深度 = 1024
+  正在生成代码...
