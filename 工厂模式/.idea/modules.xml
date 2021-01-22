@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../maven_test/maven_test.iml" filepath="$PROJECT_DIR$/../maven_test/maven_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../单例模式/单例模式.iml" filepath="$PROJECT_DIR$/../单例模式/单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工厂模式.iml" filepath="$PROJECT_DIR$/工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../抽象工厂模式/抽象工厂模式.iml" filepath="$PROJECT_DIR$/../抽象工厂模式/抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../装饰器模式/装饰器模式.iml" filepath="$PROJECT_DIR$/../装饰器模式/装饰器模式.iml" />
+    </modules>
+  </component>
+</project>
